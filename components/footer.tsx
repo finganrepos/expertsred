@@ -1,4 +1,6 @@
-import { Button } from "@/components/ui/button";
+"use client";
+
+import { Button } from "./ui/button";
 import { Linkedin, Twitter, Github, Dribbble } from "lucide-react";
 
 export default function Footer() {
