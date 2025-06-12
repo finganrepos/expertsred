@@ -1,4 +1,6 @@
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+"use client";
+
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "./ui/card";
 import { Code, Smartphone, Cloud, Brain, Users, Building } from "lucide-react";
 
 const services = [

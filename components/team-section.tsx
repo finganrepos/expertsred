@@ -1,5 +1,7 @@
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
+"use client";
+
+import { Card, CardContent } from "./ui/card";
+import { Button } from "./ui/button";
 import { Linkedin, Github, Twitter } from "lucide-react";
 
 const teamMembers = [
